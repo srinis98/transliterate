@@ -1,4 +1,4 @@
-package com.example.test_kotlin
+package com.example.transliterate
 
 import android.annotation.SuppressLint
 import android.content.ClipData

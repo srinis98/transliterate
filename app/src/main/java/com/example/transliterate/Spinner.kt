@@ -1,4 +1,4 @@
-package com.example.test_kotlin
+package com.example.transliterate
 
 import android.app.Activity
 import android.view.View

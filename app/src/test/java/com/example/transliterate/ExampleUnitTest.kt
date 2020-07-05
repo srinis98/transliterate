@@ -1,4 +1,4 @@
-package com.example.test_kotlin
+package com.example.transliterate
 
 import org.junit.Test
 

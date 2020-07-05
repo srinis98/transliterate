@@ -1,10 +1,9 @@
-package com.example.test_kotlin
+package com.example.transliterate
 
 import android.content.Context
 import android.os.Bundle
 import android.widget.RadioButton
 import android.widget.RadioGroup
-import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.preferences.*
 

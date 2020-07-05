@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">test_kotlin</string>
+    <string name="app_name">transliterate</string>
 <!--    <string name="lang_options">Selected item:</string>-->
     <string name="selected_item">Selected item:</string>
     <string name="select_preferred_server">Select preferred server :</string>
