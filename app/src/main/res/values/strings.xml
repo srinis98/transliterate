@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">test_kotlin</string>
+<!--    <string name="lang_options">Selected item:</string>-->
+    <string name="selected_item">Selected item:</string>
+    <string name="select_preferred_server">Select preferred server :</string>
+    <string-array name="lang_array">
+        <item id = "hi">hindi</item>
+        <item id = "ta">tamil</item>
+        <item id = "te">telugu</item>
+        <item id = "bn">bengali</item>
+        <item id = "gu">gujarati</item>
+        <item id = "mr">marathi</item>
+        <item id = "kn">kannada</item>
+        <item id = "ml">malayalam</item>
+        <item id = "pa">punjabi</item>
+        <item id = "ne">nepali</item>
+    </string-array>
+</resources>
+
+<!--    hi, ta, te, bn, gu, mr, kn, ml, pa, ne-->
