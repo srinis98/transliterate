@@ -80,16 +80,16 @@ fun createUrlQuill(inputString: String, language: String): String =
     "http://xlit.quillpad.in/quillpad_backend2/processWordJSON?lang=$language&inString=$inputString"
 
 val languageMapper = mapOf(
-    "hi" to "hindi",
-    "ta" to "tamil",
-    "te" to "telugu",
-    "bn" to "bengali",
-    "gu" to "gujarati",
-    "mr" to "marathi",
-    "kn" to "kannada",
-    "ml" to "malayalam",
-    "pa" to "punjabi",
-    "ne" to "nepali"
+    "hindi" to "hi",
+    "tamil" to "ta",
+    "telugu" to "te",
+    "bengali" to "bn",
+    "gujarati" to "gu",
+    "marathi" to "mr",
+    "kannada" to "kn",
+    "malayalam" to "ml",
+    "punjabi" to "pa",
+    "nepali" to "ne"
 )
 
 fun createUrlVarnam(inputString: String, language: String): String =
